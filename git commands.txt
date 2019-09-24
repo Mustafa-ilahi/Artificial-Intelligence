@@ -12,14 +12,13 @@ Steps of github
 ----> click on "+" sign of github then click on new 
 repository
 
-git config user.email "mustafailahi586@gmail.com"
+----> git config user.email "mustafailahi586@gmail.com"
 
-git config user.name "Mustafa-ilahi"
+----> git config user.name "Mustafa-ilahi"
 
-git remote add origin "https://github.com/Mustafa-ilahi/olx-App.git"
+----> git remote add origin "https://github.com/Mustafa-ilahi/olx-App.git"
 
-git push --set-upstream orgin master
-
+----> git push --set-upstream orgin master
 
 ----> select repository name(project name)
 
