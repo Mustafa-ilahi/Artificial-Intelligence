@@ -18,7 +18,7 @@ repository
 
 ----> git remote add origin "https://github.com/Mustafa-ilahi/olx-App.git"
 
-----> git push --set-upstream orgin master
+----> git push --set-upstream origin master
 
 ----> select repository name(project name)
 
