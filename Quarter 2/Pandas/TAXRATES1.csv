@@ -1,0 +1,5 @@
+,State,ZipCode,TaxRegionName,StateRate,EstimatedCombinedRate,EstimatedCountyRate,EstimatedCityRate,EstimatedSpecialRate,RiskLevel
+0,AK,one,ANCHORAGE BOROUGH,0,0,0,,0,1
+1,AK,one,ANCHORAGE BOROUGH,0,,0,0,0,2
+2,AK,two,ANCHORAGE BOROUGH,0,0,,0,,3
+3,AK,two,ANCHORAGE BOROUGH,,0,0,0,0,4
